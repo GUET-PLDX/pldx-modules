@@ -24,3 +24,4 @@ modules:
   - https://github.com/GUET-PLDX/SharedTopicClient.git
   - https://github.com/GUET-PLDX/SuperPower.git
   - https://github.com/GUET-PLDX/VT13.git
+  - https://github.com/GUET-PLDX/WsProtocol.git
