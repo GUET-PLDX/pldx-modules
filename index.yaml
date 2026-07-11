@@ -1,0 +1,26 @@
+namespace: pldx
+modules:
+  - https://github.com/GUET-PLDX/BlinkLED.git
+  - https://github.com/GUET-PLDX/BMI088.git
+  - https://github.com/GUET-PLDX/BuzzerAlarm.git
+  - https://github.com/GUET-PLDX/Chassis.git
+  - https://github.com/GUET-PLDX/CMD.git
+  - https://github.com/GUET-PLDX/DebugCore.git
+  - https://github.com/GUET-PLDX/DMMotor.git
+  - https://github.com/GUET-PLDX/DR16.git
+  - https://github.com/GUET-PLDX/DualBoard.git
+  - https://github.com/GUET-PLDX/EventBinder.git
+  - https://github.com/GUET-PLDX/Gimbal.git
+  - https://github.com/GUET-PLDX/HostData.git
+  - https://github.com/GUET-PLDX/InfantryLauncher.git
+  - https://github.com/GUET-PLDX/IST8310.git
+  - https://github.com/GUET-PLDX/MadgwickAHRS.git
+  - https://github.com/GUET-PLDX/Motor.git
+  - https://github.com/GUET-PLDX/PowerControl.git
+  - https://github.com/GUET-PLDX/Referee.git
+  - https://github.com/GUET-PLDX/RMMotor.git
+  - https://github.com/GUET-PLDX/SentryProtocol.git
+  - https://github.com/GUET-PLDX/SharedTopic.git
+  - https://github.com/GUET-PLDX/SharedTopicClient.git
+  - https://github.com/GUET-PLDX/SuperPower.git
+  - https://github.com/GUET-PLDX/VT13.git
