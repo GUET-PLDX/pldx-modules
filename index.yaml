@@ -16,6 +16,8 @@ modules:
   - https://github.com/GUET-PLDX/IST8310.git
   - https://github.com/GUET-PLDX/MadgwickAHRS.git
   - https://github.com/GUET-PLDX/Motor.git
+  - https://github.com/GUET-PLDX/NavHostLink.git
+  - https://github.com/GUET-PLDX/NavLinkProtocol.git
   - https://github.com/GUET-PLDX/PowerControl.git
   - https://github.com/GUET-PLDX/Referee.git
   - https://github.com/GUET-PLDX/RMMotor.git
